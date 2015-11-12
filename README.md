@@ -1,4 +1,4 @@
-#Open-source fonts for web and print
+#(Really) free fonts
 maintained by [Zachary G. Augustine](http://zacharyaugustine.com)
 
 ###Using fonts
@@ -25,46 +25,50 @@ There can be a lot going on, so stay organized:
 
 [Testing](http://www.impallari.com/testing/) - drag-and-drop tool for web designers
 
-The Fell Types - digitizations of (very) old-style serif typefaces
+[The Fell Types](http://iginomarini.com/fell/the-revival-fonts/) - digitization of (very) old-style serif typefaces
 
-League of Movable Type - professional, open-source type foundry
+[Noun Project](https://thenounproject.com/) - icon database
 
-Font Squirrel - all fonts free for commercial use
+Awesome Font - icons stored as glyphs in a font
 
-Tomleo - open-source font repository I have shamelessly sourced
+[League of Movable Type](https://www.theleagueofmoveabletype.com/) - professional, open-source type foundry
 
-FontForge - free typeface glyph editor
+[Font Squirrel](http://www.fontsquirrel.com/) - all fonts free for commercial use
+
+[Tomleo](https://gist.github.com/tomleo/5745140) - open-source font repository that I have shamelessly sourced
+
+[FontForge](http://fontforge.github.io/en-US/) - free typeface glyph editor
 
 ###Body
-readable at small sizes with tight spacing, suitable for textblocks
+readable at small sizes with tight spacing, suitable for text-blocks
 
-Font | Style | Serifed | GitHub | Google Font
---- | --- | :---: | :---: | :---:
-[Quattrocento](http://www.impallari.com/quattrocento) | clean, readable serif | ✔ | | [✔](https://www.google.com/fonts/#UsePlace:use/Collection:Quattrocento)
-[Quattrocento Sans](http://www.impallari.com/quattrocentosans) | " | | [✔](http://www.google.com/webfonts/family?family=Quattrocento+Sans)
-[EB Garamond](http://www.georgduffner.at/ebgaramond) | re:Garamond, an old-style serif | ✔ | [✔](https://github.com/georgd/EB-Garamond) | [✔](https://www.google.com/fonts#UsePlace:use/Collection:EB+Garamond)
-Roboto | Helvetica-inspired humanist | | |
-Open Sans | modern sans-serif, like Apple’s Myriad | | |
-Open Baskerville | re:Baskerville, a transitional serif | ✔ | |
-Josefin Sans | friendly, modern | |
-Josefin Slab | whimsical, warm | ✔ | |
-Gentium | huge multilingual character set | | |
-LinuxLibertine | multilingual character set | | |
-Libre Caslon | re:Caslon | ✔ | |
-Libre Baskerville | re:Baskerville | ✔ | |
-Crimson | | |
+Font | Serifed | Style | GitHub | Google Font
+--- | :---: | --- | :---: | :---:
+[Quattrocento](http://www.impallari.com/quattrocento) | ✔ |clean, readable serif | | [✔](https://www.google.com/fonts/#UsePlace:use/Collection:Quattrocento)
+[Quattrocento Sans](http://www.impallari.com/quattrocentosans) | | " | [✔](http://www.google.com/webfonts/family?family=Quattrocento+Sans)
+[EB Garamond](http://www.georgduffner.at/ebgaramond) | ✔ | re:Garamond, an old-style serif | [✔](https://github.com/georgd/EB-Garamond) | [✔](https://www.google.com/fonts#UsePlace:use/Collection:EB+Garamond)
+Roboto | | Helvetica-inspired humanist | |
+Open Sans | | modern sans-serif, like Apple’s Myriad | [✔](https://github.com/google/fonts/tree/master/apache/opensans)| [✔]https://www.google.com/fonts#UsePlace:use/Collection:Open+Sans)
+Open Baskerville | ✔ | re:Baskerville, a transitional serif | |
+Josefin Sans | | friendly, modern | |
+Josefin Slab |✔| whimsical, warm | |
+[Gentium](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=gentium) |✔| huge multilingual character set | |
+LinuxLibertine | | multilingual character set | |
+Libre Caslon |✔| re:Caslon | |
+Libre Baskerville |✔| re:Baskerville | |
+Crimson | ✔ | [✔](https://github.com/skosch/Crimson) | [✔](https://www.google.com/fonts#UsePlace:use/Collection:Crimson+Text)
 
 
 ###Display
 
 used for titles and headings with large amounts of spacing
 
-Font | Style | Serifed | GitHub | Google Font
---- | --- | :---: | :---: | :---:
-Tex Gyre Heros | re:Helvetica | | |
-Fette Fraktur | blackletter | ? | |
-Jura | clean, digital | | | [✔](https://www.google.com/fonts#UsePlace:use/Collection:Jura)
-League Spartan | mix of Helvetica and Gotham | | |
-League Gothic | tall, authoritative capitals | | |
-Cabin | re:Gill-Sans | | |
-Lobster + 2 | baseball-ish with high-tech ligatures | ? | |
+Font | Serifed | Style | GitHub | Google Font
+--- | :---: | --- | :---: | :---:
+Tex Gyre Heros | | re:Helvetica | |
+Fette Fraktur |?| blackletter | |
+Jura | | clean, digital | | [✔](https://www.google.com/fonts#UsePlace:use/Collection:Jura)
+League Spartan | | mix of Helvetica and Gotham | |
+League Gothic | | tall, authoritative capitals | |
+Cabin | | re:Gill-Sans | |
+Lobster + 2 |?| baseball-ish with high-tech ligatures ||
