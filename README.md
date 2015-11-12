@@ -18,11 +18,15 @@ There can be a lot going on, so stay organized:
 
 ###Foundries & Programs
 
-Impallari - perhaps the hottest foundry in the game today (GitHub)
+[GitHub](https://www.githhub.io) - this website--if you don't know it, it's essential!
+
+[Google Fonts](https://www.google.com/fonts#) - all free, can be used for web or downloaded ([GitHub](https://github.com/google/fonts))
+
+[Impallari](http://www.impallari.com/) - perhaps the hottest foundry in the game today ([GitHub](https://github.com/impallari/))
+
+[Testing](http://www.impallari.com/testing/) - drag-and-drop tool for web designers
 
 League of Movable Type - professional, open-source type foundry
-
-Google Fonts - all free, can be used for web or downloaded (GitHub)
 
 Font Squirrel - all fonts free for commercial use
 
