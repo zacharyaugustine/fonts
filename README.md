@@ -17,7 +17,6 @@ There can be a lot going on, so stay organized:
 - use a font management program
 
 ###Foundries & Programs
-
 [GitHub](https://www.githhub.io) - this website--if you don't know it, it's essential!
 
 [Google Fonts](https://www.google.com/fonts#) - all free, can be used for web or downloaded ([GitHub](https://github.com/google/fonts))
@@ -25,6 +24,8 @@ There can be a lot going on, so stay organized:
 [Impallari](http://www.impallari.com/) - perhaps the hottest foundry in the game today ([GitHub](https://github.com/impallari/))
 
 [Testing](http://www.impallari.com/testing/) - drag-and-drop tool for web designers
+
+The Fell Types - digitizations of (very) old-style serif typefaces
 
 League of Movable Type - professional, open-source type foundry
 
@@ -37,33 +38,33 @@ FontForge - free typeface glyph editor
 ###Body
 readable at small sizes with tight spacing, suitable for textblocks
 
-Font | Style | GitHub | Google Font
---- | --- | :---: | :---:
-[Quattrocento](http://www.impallari.com/quattrocento) | clean and readable | | [✔](https://www.google.com/fonts/#UsePlace:use/Collection:Quattrocento)
+Font | Style | Serifed | GitHub | Google Font
+--- | --- | :---: | :---: | :---:
+[Quattrocento](http://www.impallari.com/quattrocento) | clean, readable serif | ✔ | | [✔](https://www.google.com/fonts/#UsePlace:use/Collection:Quattrocento)
 [Quattrocento Sans](http://www.impallari.com/quattrocentosans) | " | | [✔](http://www.google.com/webfonts/family?family=Quattrocento+Sans)
-[EB Garamond](http://www.georgduffner.at/ebgaramond) | recreation of Garamond, an old style serif | [✔](https://github.com/georgd/EB-Garamond) | [✔](https://www.google.com/fonts#UsePlace:use/Collection:EB+Garamond)
-Roboto | what started as a Helvetica clone is now more humanist (Android’s official typeface) | |
-Open Sans | modern sans-serif, reminiscent of Apple’s Myriad | |
-The Fell Types | digitizations of (very) old style serif typefaces | |
-Open Baskerville | recreation of Baskerville, a transitional serif | |
+[EB Garamond](http://www.georgduffner.at/ebgaramond) | re:Garamond, an old-style serif | ✔ | [✔](https://github.com/georgd/EB-Garamond) | [✔](https://www.google.com/fonts#UsePlace:use/Collection:EB+Garamond)
+Roboto | Helvetica-inspired humanist | | |
+Open Sans | modern sans-serif, like Apple’s Myriad | | |
+Open Baskerville | re:Baskerville, a transitional serif | ✔ | |
 Josefin Sans | friendly, modern | |
-Josefin Slab | | |
-Gentium | real multilingual characters | |
-Libre Caslon | | |
-Libre Baskerville | | |
+Josefin Slab | whimsical, warm | ✔ | |
+Gentium | huge multilingual character set | | |
+LinuxLibertine | multilingual character set | | |
+Libre Caslon | re:Caslon | ✔ | |
+Libre Baskerville | re:Baskerville | ✔ | |
 Crimson | | |
-LinuxLibertine | extensive, multilingual character set | |
+
 
 ###Display
 
 used for titles and headings with large amounts of spacing
 
-Font | Style | GitHub | Google Font
---- | --- | :---: | :---:
-Tex Gyre Heros | recreation of Helvetica, a grotesque | |
-Fette Fraktur | UChicago's blackletter display | |
-Jura | reminds me of a terminal in *Alien* | |
-League Spartan | mix of Helvetica and Gotham | |
-League Gothic | tall, authoritative capitals | |
-Cabin | recreation of Gill-Sans | |
-Lobster + 2 | baseball-ish with high-tech ligatures | |
+Font | Style | Serifed | GitHub | Google Font
+--- | --- | :---: | :---: | :---:
+Tex Gyre Heros | re:Helvetica | | |
+Fette Fraktur | blackletter | ? | |
+Jura | clean, digital | | | [✔](https://www.google.com/fonts#UsePlace:use/Collection:Jura)
+League Spartan | mix of Helvetica and Gotham | | |
+League Gothic | tall, authoritative capitals | | |
+Cabin | re:Gill-Sans | | |
+Lobster + 2 | baseball-ish with high-tech ligatures | ? | |
